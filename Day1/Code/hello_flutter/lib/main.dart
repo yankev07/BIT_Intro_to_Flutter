@@ -14,14 +14,20 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: Scaffold(
+
         appBar: AppBar(
           title: const Text('Welcome to Flutter'),
         ),
+
+
         body: const Center(
           child: Text(
               'Hello World',
-              style: TextStyle(color: Colors.red, fontWeight: FontWeight.w800, fontSize: 25)),
+              style: TextStyle(color: Colors.blue, fontWeight: FontWeight.w200, fontSize: 80)),
         ),
+
+
+
       ),
     );
   }
