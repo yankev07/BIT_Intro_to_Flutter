@@ -16,3 +16,10 @@ Please do not forget to register for your own api key on https://newsapi.org/ an
 
 
 Happy Coding! ^_^
+
+
+
+![alt text](https://github.com/yankev07/BIT_Intro_to_Flutter.git/blob/main/img_1.png?raw=true)
+
+
+![alt text](https://github.com/yankev07/BIT_Intro_to_Flutter.git/blob/main/img_2.png?raw=true)
