@@ -9,7 +9,7 @@ class News {
 
   Future<void> getNews() async{
 
-    String url = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey='My_API_Key'";
+    String url = "https://newsapi.org/v2/everything?q=tesla&from=2022-03-29&sortBy=publishedAt&apiKey=d16956678087411aa11b3a1435cadb09";
 
     var response = await http.get(url);
 
